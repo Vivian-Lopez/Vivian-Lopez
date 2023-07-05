@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- I'm An upcoming Second Year student at Imperial studing a 4 year Computing course.
+- I'm currently working on a wallpaper generator full stack project to get level up my software engineering skills
+- You can reach out to me on my Linkedin :)
