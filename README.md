@@ -16,5 +16,6 @@ Here are some ideas to get you started:
 -->
 
 - I'm An upcoming Second Year student at Imperial studing a 4 year Computing course.
-- I'm currently working on a wallpaper generator full stack project to get level up my software engineering skills
-- You can reach out to me on my Linkedin :)
+- A full-stack project I'm currently working on is a wallpaper generator that uses GANs to create unique wallpapers.
+- Also I'm part of a group of devs working to create a fitness app Huscle which I'm sure will be the future of fitness apps!
+- You can reach out to me on my LinkedIn :)
