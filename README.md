@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- I'm An upcoming Second Year student at Imperial College London studying a 4 year Computing course.
+- I'm An upcoming Second Year student at Imperial College London studying Computing.
 - A full-stack project I'm currently working on is a wallpaper generator that uses GANs to create unique wallpapers.
 - Also I'm part of a group of devs working to create a fitness app Huscle which I'm sure will be the future of fitness apps!
 - You can reach out to me on my LinkedIn :)
