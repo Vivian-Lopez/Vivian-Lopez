@@ -18,5 +18,5 @@ Here are some ideas to get you started:
 
 - I'm An upcoming Second Year student at Imperial College London studying Computing.
 - I'm part of a group of devs working to create a fitness app - Huscle.
-- A Project I'm currently working is Promptopia - A web app which allows you to create posts about useful AI propmts
+- A Project I'm currently working is Papergen - A web app allowing you to search for wallpapers & generate your own using a GAN
 - You can reach out to me on my LinkedIn :)
