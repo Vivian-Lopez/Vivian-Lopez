@@ -18,5 +18,5 @@ Here are some ideas to get you started:
 
 - I'm An upcoming Second Year student at Imperial College London studying Computing.
 - I'm part of a group of devs working to create a fitness app - Huscle.
-- A Project I'm currently working is Papergen - A wallpaper generator/browser (using a GAN on the backend for generating)
+- A Project I'm currently working is Papergen - A wallpaper generator/browser
 - You can reach out to me on my LinkedIn :)
