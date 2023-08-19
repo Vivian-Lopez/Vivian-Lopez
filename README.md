@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 <!-- - A full-stack project I'm currently working on is a wallpaper generator that uses GANs to create unique wallpapers. -->
 
 - I'm a Second Year student at Imperial College London studying Computing.
-- I'm part of a group of devs working to create a fitness app - Huscle.
+- I'm a CTO at Huscle Inc. working with a team to create a fitness app.
 - You can reach out to me on my LinkedIn :)
