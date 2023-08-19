@@ -18,5 +18,5 @@ Here are some ideas to get you started:
 
 - I'm a Second Year student at Imperial College London studying Computing.
 - I'm a CTO at Huscle Inc. working with a team to create a fitness app.
-- I have experience creating projects using next.js and react (see below).
+- I have experience creating projects using next.js and react as well as python and tensorflow (see below).
 - You can reach out to me on my LinkedIn :)
