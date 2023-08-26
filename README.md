@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 <!-- - A full-stack project I'm currently working on is a wallpaper generator that uses GANs to create unique wallpapers. -->
 
 - I'm a Second Year student at Imperial College London studying Computing.
-- I'm a Co-Founder, CTO & Lead Software Developer at Huscle Inc. working with a team to create a fitness app.
+- I'm a Co-Founder, CTO & Lead Software Engineer at Huscle Inc. working with a team to create a fitness app.
 - I have experience creating projects using next.js and react as well as python and tensorflow (see below).
 - You can reach out to me on my LinkedIn :)
