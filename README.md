@@ -16,8 +16,7 @@ Here are some ideas to get you started:
 -->
 <!-- - A full-stack project I'm currently working on is a wallpaper generator that uses GANs to create unique wallpapers. -->
 
-- I've just finished my second year studying Computing at Imperial College London.
-- I'm also a Co-Founder at Huscle Inc. working with a team to create a fitness app.
-- My favourite language is Python, I am also proficient in Scala, Java and I have some experience with JavaScript, TypeScript and C.
+- I'm going into my 3rd year studying Computing at Imperial College London.
+- My favourite language is Python, I am also proficient in Scala, Java and I have some experience with JavaScript, TypeScript, Haskell and C.
 - I've worked on a range of projects using next.js, react as well as tensorflow (see below).
 - You can reach out to me on my LinkedIn :)
