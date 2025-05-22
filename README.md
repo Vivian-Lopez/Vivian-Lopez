@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 -->
 <!-- - A full-stack project I'm currently working on is a wallpaper generator that uses GANs to create unique wallpapers. -->
 
-- I'm going into my 3rd year studying Computing at Imperial College London.
-- My favourite language is Python, I am also proficient in Scala, Java and I have some experience with JavaScript, TypeScript, Haskell and C.
-- I've worked on a range of projects using next.js, react as well as tensorflow (see below).
+- I'm a 3rd year studying Computing at Imperial College London.
+- Currently learning the depths of C++ :)
 - You can reach out to me on my LinkedIn :)
