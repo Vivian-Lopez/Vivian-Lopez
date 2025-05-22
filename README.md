@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 <!-- - A full-stack project I'm currently working on is a wallpaper generator that uses GANs to create unique wallpapers. -->
 
 - I'm a 3rd year studying Computing at Imperial College London.
-- Currently learning the depths of C++ :)
+- Currently learning the depths of C++ 😄
 - You can reach out to me on my LinkedIn :)
