@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 <!-- - A full-stack project I'm currently working on is a wallpaper generator that uses GANs to create unique wallpapers. -->
 
-🎓 Imperial College London · Final Year CS  
+🎓 Imperial College London · Penultimate Year CS  
 💼 Current: 6-Month Hedge Fund Placement (Equities Desk) | Past: SWE Intern @ JP Morgan  
 ⚙️ Interested in performance, trading infrastructure, and building clean systems in C++ and Python  
 📫 Reach me on [LinkedIn](your-link) or via GitHub
