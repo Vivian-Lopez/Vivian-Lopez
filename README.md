@@ -1,4 +1,4 @@
-### Hi there 👋
+<!--### Hi there 👋-->
 
 <!--
 **Vivian-Lopez/Vivian-Lopez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 <!-- - A full-stack project I'm currently working on is a wallpaper generator that uses GANs to create unique wallpapers. -->
 
-- I'm a 3rd year studying Computing at Imperial College London.
-- Currently learning the depths of C++ 😄
-- Favourite Languages are Python & C++ ⚡
-- You can reach out to me on my LinkedIn :)
+🎓 Imperial College London · Final Year CS  
+💼 SWE Intern @ JP Morgan | 6-Month Hedge Fund Placement (Equities Desk)  
+⚙️ Interested performance, trading infra, and clean low-level code  
+📫 Reach me on [LinkedIn](your-link) or via GitHub
