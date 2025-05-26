@@ -18,4 +18,5 @@ Here are some ideas to get you started:
 
 - I'm a 3rd year studying Computing at Imperial College London.
 - Currently learning the depths of C++ 😄
+- Favourite Languages are Python & C++ ⚡
 - You can reach out to me on my LinkedIn :)
