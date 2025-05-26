@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 🎓 Imperial College London · Penultimate Year CS  
 💼 Current: 6-Month Hedge Fund Placement (Equities Desk) | Past: SWE Intern @ JP Morgan  
 ⚙️ Interested in performance, trading infrastructure, and building clean systems in C++ and Python  
-📫 Reach me on [LinkedIn](your-link) or via GitHub
+📫 Reach me on [LinkedIn](https://www.linkedin.com/in/vivian-l-7a4293243/)
