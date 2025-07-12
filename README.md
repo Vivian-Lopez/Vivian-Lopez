@@ -19,6 +19,6 @@ Here are some ideas to get you started:
 🎓 Imperial College London · Penultimate Year CS (Masters in AI & ML)  
 💼 Current: 6-Month Hedge Fund Placement (Commodities Trading Desk) | Past: SWE Intern @ JP Morgan  
 ⚙️ Interested in performance, trading and building clean systems in C++ and Python  
-📫 Reach me on [LinkedIn](https://www.linkedin.com/in/vivian-l-7a4293243/)
-🔭 I’m currently working on C++ Custom Container Implemenations
-🌱 I’m currently learning Rust!
+📫 Reach me on [LinkedIn](https://www.linkedin.com/in/vivian-l-7a4293243/)     
+🔭 I’m currently working on C++ Custom Container Implemenations   
+🌱 I’m currently learning Rust!   
