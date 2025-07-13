@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 ⚙️ Interested in performance, trading and building clean systems in C++ and Python  
 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/vivian-l-7a4293243/)     
 🔭 I’m currently working on C++ Custom Container Implemenations   
-🌱 I’m currently learning Rust!   
+🌱 I’m also learning Rust!   
