@@ -18,7 +18,5 @@ Here are some ideas to get you started:
 
 🎓 Imperial College London · Penultimate Year CS (Masters in AI & ML)  
 💼 Current: 6-Month Placement on a Commodities Trading Desk | Past: SWE Intern @ JP Morgan (Data Platform Engineering)  
-⚙️ Interested in performance, trading and building clean systems in C++ and Python  
-🔭 Currently working on C++ Custom Container Implemenations   
-🌱 I’m also learning Rust!   
+⚙️ Interested in data engineering, performance and developing in Python especially
 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/vivian-l-7a4293243/)     
