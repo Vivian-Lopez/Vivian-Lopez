@@ -16,7 +16,4 @@ Here are some ideas to get you started:
 -->
 <!-- - A full-stack project I'm currently working on is a wallpaper generator that uses GANs to create unique wallpapers. -->
 
-🎓 Imperial College London · Penultimate Year CS (Masters in AI & ML)  
-💼 Current: 6-Month Placement on a Commodities Trading Desk | Past: SWE Intern @ JP Morgan (Data Platform Engineering)  
-⚙️ Interested in data engineering, performance and developing in Python & C++    
-📫 Reach me on [LinkedIn](https://www.linkedin.com/in/vivian-l-7a4293243/)     
+   
