@@ -1,9 +1,7 @@
 
 # Hi, I'm Vivian 👋
 
-I'm an **MEng Computing (AI & ML) graduate from Imperial College London**, interested in backend engineering, high-performance computing, and financial technology.
-
-I enjoy building efficient software, solving technical problems, and working on data-intensive systems.
+I'm an **MEng Computing (AI & ML) graduate from Imperial College London**, currently interested in distributed systems.
 
 ### 💼 Experience
 
@@ -14,7 +12,7 @@ I enjoy building efficient software, solving technical problems, and working on 
 ### 🚀 Featured Projects
 
 - **[Monte Carlo Benchmarking Framework](https://github.com/Vivian-Lopez/Monte-Carlo-and-Automatic-Differentiation-Systematic-Benchmarking-Framework)**  
-  Multi-language framework for benchmarking Monte Carlo simulation engines, with automatic differentiation support and performance evaluation.
+  Multi-language framework for benchmarking Monte Carlo simulation engines, with automatic differentiation support and performance evaluation. [Extending in a separate repo with a distributed benchmarking runner]
 
 - **[Moving Average Strategy Backtester](https://github.com/Vivian-Lopez/Moving-Average-Strategy-Backtester)**  
   Python and C++ backtesting engine for exploring and evaluating algorithmic trading strategies.
