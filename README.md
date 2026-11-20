@@ -1,7 +1,7 @@
 
 # Hi, I'm Vivian 👋
 
-I'm an **MEng Computing (AI & ML) graduate from Imperial College London**, currently interested in distributed systems.
+I'm an **MEng Computing (AI & ML) graduate from Imperial College London**.
 
 ### 💼 Experience
 
